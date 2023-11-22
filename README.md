@@ -32,4 +32,4 @@ In this challenge, you are required to create a responsive web page using React,
 
 **Good luck, and we look forward to seeing your innovative solutions!**
 
-[Design Link](https://www.figma.com/file/PrfR7JhLBsBKEJ3elxn2rF/Launch-Frontend-test)
+[Design Link](https://www.figma.com/file/kz4KacrOhdGrq6moFs5vuV/Task-Web?type=design&node-id=0%3A1&mode=design&t=El4nyAClTqlYsJ4q-1)
